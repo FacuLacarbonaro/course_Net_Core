@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ejercicio_seccion_3", "ejercicio_seccion_3\ejercicio_seccion_3.csproj", "{9588B62B-3A65-4DD9-AE2E-4902C75F9826}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Section2_ex", "ejercicio_seccion_3\Section2_ex.csproj", "{9588B62B-3A65-4DD9-AE2E-4902C75F9826}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section3_ex1", "Section3_ex1\Section3_ex1.csproj", "{EF1AC24B-C44F-49E4-B53F-ED15623E6EBC}"
 EndProject
@@ -17,7 +17,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section3_ex5", "Section3_ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section3_ex6", "Section3_ex6\Section3_ex6.csproj", "{FF8C9F4D-5908-4E47-9D11-2929A4DB4E92}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sectopm3_ex7", "Sectopm3_ex7\Sectopm3_ex7.csproj", "{F1E7BDC1-3021-49D1-A19D-7D07E7688D88}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section3_ex7", "Sectopm3_ex7\Section3_ex7.csproj", "{F1E7BDC1-3021-49D1-A19D-7D07E7688D88}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section3_ex8", "Section3_ex8\Section3_ex8.csproj", "{55D86515-E75E-4179-8F24-1359A0C66535}"
 EndProject
